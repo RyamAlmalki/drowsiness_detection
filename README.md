@@ -1,3 +1,6 @@
+![Drowsiness Detection](https://media.giphy.com/media/BD4DIGsIhkOZ2lI0v1/giphy.gif)
+
+
 # Drowsiness Detection 👁️👀
 
 Welcome to the Drowsiness Detection System! This project aims to determine whether eyes in images are open or closed using image processing and machine learning techniques. It integrates facial landmark detection with the Eye Aspect Ratio (EAR) to create a comprehensive dataset. Using this data, we train machine learning models to achieve high accuracy in eye state detection.
