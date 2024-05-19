@@ -8,7 +8,6 @@ Welcome to the Drowsiness Detection System! This project aims to determine wheth
 - [Usage](#usage-)
 - [Dataset Preparation](#dataset-preparation-)
 - [Model Training](#model-training-)
-- [Evaluation](#evaluation-)
 - [Contributing](#contributing-)
 - [License](#license-)
 
@@ -22,8 +21,7 @@ This project combines facial landmark detection with EAR calculation to create a
 - **Eye Aspect Ratio (EAR)**: Calculates EAR to determine eye openness.
 - **Data Preprocessing**: Includes adaptive histogram equalization, Gaussian blur, and edge enhancement.
 - **Model Training**: Implements both SVM and CNN models.
-- **Evaluation**: Uses ROC curve and AUC for performance evaluation.
-  
+
 ## Usage 🚀
 1. **Build the dataset**:
     - Ensure you have images of both open and closed eyes in the respective directories.
@@ -43,10 +41,6 @@ This project combines facial landmark detection with EAR calculation to create a
 ## Model Training 📈
 - **SVM**: Uses a linear kernel SVM with EAR as an additional feature.
 - **CNN**: A deep learning model combining image data and EAR for improved accuracy.
-
-## Evaluation 🧪
-- **ROC Curve**: Plots true positive rate vs. false positive rate to evaluate model performance.
-- **Optimal Threshold**: Determines the threshold that maximizes accuracy.
 
 ## Contributing 🤝
 We welcome contributions to enhance this project! To contribute, please:
