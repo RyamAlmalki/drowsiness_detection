@@ -49,10 +49,3 @@ We welcome contributions to enhance this project! To contribute, please:
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
-
-## License 📜
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to explore and contribute! If you have any questions or issues, please open an issue on the GitHub repository. Happy coding! 😃
