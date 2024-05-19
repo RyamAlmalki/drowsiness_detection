@@ -9,7 +9,6 @@ Welcome to the Drowsiness Detection System! This project aims to determine wheth
 - [Dataset Preparation](#dataset-preparation-)
 - [Model Training](#model-training-)
 - [Contributing](#contributing-)
-- [License](#license-)
 
 ## Overview 🌟
 This project combines facial landmark detection with EAR calculation to create a dataset of images categorized as having 'opened eyes' or 'closed eyes'. Two models are implemented:
